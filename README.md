@@ -1,4 +1,5 @@
 ## In-browser real-time object detection with TensorFlow.js 
+https://pratik-mk.github.io/tensorflowjs/
 
 This repo contains the code needed to build an object detection web app using TensorFlow.js. The app, uses the computer's webcam stream to perform real-time object detections in every frame it receives.
 
